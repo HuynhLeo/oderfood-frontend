@@ -41,7 +41,6 @@ export const useCreateMyRestaurant = () => {
       },
       body: restaurantFormData,
     });
-
     if (!response.ok) {
       throw new Error("Failed to create restaurant");
     }

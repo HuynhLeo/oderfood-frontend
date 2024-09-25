@@ -19,6 +19,5 @@ export const cuisineList = [
   "Bánh cuốn chay",
   "Rau củ chiên giòn",
   "Đậu hũ chiên sả ớt",
-  "Đậu hũ chiên sả ớt",
   "Mì Quảng chay",
 ];
